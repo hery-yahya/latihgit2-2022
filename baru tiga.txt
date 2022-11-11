@@ -4,3 +4,7 @@ file tiga
 
 file empat
 file lima
+
+file enam
+file tujuh
+file delapan
